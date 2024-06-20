@@ -1,5 +1,5 @@
 # Extreme-Climate-Early-Warning
-In order to solve operational repetition every 10 days, my office need to put the early warning status on district level .shapefile, so i use python to do this repetitively in seamless way
+In order to solve operational repetition every specific period of times, my office need to put the early warning status on district level .shapefile, so i use python to do this repetitively in seamless way
 Disclaimer: this just automation for extracting data from ECMWF output to district level shpfile, the real computation are in model process, the real thing that ive done are just:
 ## 07_PERDINKMRK
 1. labelling specific criteria
