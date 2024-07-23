@@ -12,3 +12,14 @@ our office having a monthly bulletin report about climate condition on our respo
 1. agroclimate automatic weather station data cleaning
 2. separate for monthly analysis
 3. visualization (timeseries, piechart, windrose, histogram)
+## ACH_GHZ
+This script doing are:
+1. automating download from specific ftp
+2. doing arcgis interpolation and plot
+3. save the plot into .jpg file
+overall script is already written by somebody else, im just modified it the variable that being plotted and the download automation
+## SPI_GHZ
+1. automating download from specific ftp
+2. doing arcgis interpolation and plot
+3. save the plot into .jpg file
+overall script is already written by somebody else, im just modified it the variable that being plotted and the download automation
