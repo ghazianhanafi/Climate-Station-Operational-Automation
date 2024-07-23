@@ -41,8 +41,8 @@ mxddir = wd+"mxd\\"
 import ftplib
 from ftplib import FTP
 ftp=FTP('172.19.1.208')
-un='bidangavi'
-pw='avi2020'
+un=******
+pw=*******
 ftp.login(un,pw)
 print("connect")
 ftp.cwd('/Analisis_CH_BLENDING/Data_Analisis_SPI_Late_Perpulau/SPI_CSV/')
