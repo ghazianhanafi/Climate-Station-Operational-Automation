@@ -23,3 +23,11 @@ overall script is already written by somebody else, im just modified it the vari
 2. doing arcgis interpolation and plot
 3. save the plot into .jpg file
 overall script is already written by somebody else, im just modified it the variable that being plotted and the download automation
+## PCH
+its always been my dream to do spatial plot mapping without using GIS apps like: arcgis or qgis. and today that dream comes true. thanks to my mentor in my organization that teach me,
+how to do geospatial analyst using multiple interpolation, is gonna be usefull for me forever. what this script do is this step:
+1. automating call data from google drive directory that have been prepared by HQ team
+2. call the atribute that needed like sea raster, city shp, and district level shp
+3. calculate IDW interpolation
+4. set the colours into usual plot
+5. spatial plot
